@@ -8,7 +8,7 @@ Full-Stack MERN Developer focused on building scalable, performant, and user-cen
 
 I enjoy designing clean architectures, developing robust RESTful APIs, and creating responsive frontend experiences that solve real-world problems. I believe in writing maintainable code, following best development practices, and continuously improving through hands-on projects and problem-solving.
 
-Tech Stack
+# Tech Stack:
 
 Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
 
@@ -20,7 +20,7 @@ Tools: Git, GitHub, VS Code, Postman
 
 Languages: JavaScript, C++, Java
 
-What I Focus On
+# What I Focus On:
 
 Developing scalable full-stack applications
 
