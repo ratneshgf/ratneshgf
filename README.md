@@ -44,7 +44,7 @@ Strengthening Data Structures & Algorithms
 
 </div>
 
-## Socials:
+# Socials:
 
 <div align="center">
 
